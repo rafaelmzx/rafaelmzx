@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, me chamo Rafael</h1>
+<h1 align="center">Olá 👋, me chamo Rafael</h1>
 <h3 align="center">Estudante de programação e amante de design.</h3>
 
 - 🌱 Atualmente estudando e aprendendo **JS, ReactJS, UX/IU Design, Blender, Unreal Engine.**
