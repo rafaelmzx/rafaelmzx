@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, me chamo Rafael</h1>
-<h3 align="center">Estudante de programacao e amante de design.</h3>
+<h3 align="center">Estudante de programação e amante de design.</h3>
 
-- 🌱 Atualmente aprendendo **JS, ReactJS, UX/IU Design, Blender, Unreal Engine.**
+- 🌱 Atualmente estudando e aprendendo **JS, ReactJS, UX/IU Design, Blender, Unreal Engine.**
 
 - 📫 Contato via email **rafaelleduard@gmail.com**
 
@@ -22,7 +22,7 @@
 <img aling="center" alt="MATERIAL-UI" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
 
-<h3>Linguagens e Programas que ja tive contato:</h3>
+<h3>Linguagens e Programas que já tive contato:</h3>
 <img aling="center" alt="MYSQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img aling="center" alt="NODE" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img aling="center" alt="TYPES" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
